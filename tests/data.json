@@ -1,0 +1,41 @@
+{
+  "rango": {"inicio": "2025-08-27", "fin": "2025-09-02"},
+  "kpis": {
+    "roas": {"actual": 1.76, "w1": 2.00, "w2": 2.00, "w3": 2.74},
+    "compras": {"actual": 71, "w1": 72, "w2": 79, "w3": 109},
+    "inversion": {"actual": 2052.18, "w1": 1995.70, "w2": 2106.42, "w3": 2219.73},
+    "ventas": {"actual": 3615.80, "w1": 3986.50, "w2": 4214.48, "w3": 6083.41},
+    "cpa": {"actual": 28.90, "w1": 27.72, "w2": 26.66, "w3": 20.36},
+    "ticket": {"actual": 50.93, "w1": 55.37, "w2": 53.35, "w3": 55.10}
+  },
+  "funnel": {
+    "impresiones": 484476,
+    "clics_link": 5155,
+    "clics_out": 5026,
+    "visitas_lp": 4704,
+    "atc": 364,
+    "checkout": 200,
+    "compras": 71
+  },
+  "creatividad": {
+    "ctr_link": {"actual": 0.0106, "w1": 0.0134, "w2": 0.0148, "w3": 0.0157},
+    "hook_rate": {"actual": 0.0, "w1": 0.0, "w2": 0.0, "w3": 0.0},
+    "thruplay": {"actual": 0.0, "w1": 0.0, "w2": 0.0, "w3": 0.0},
+    "tiempo_video_s": {"actual": 23.1, "w1": 28.5, "w2": 27.0, "w3": 26.2}
+  },
+  "publicos": [
+    {"nombre": "ASC+ (sin público)", "gasto": 900.50, "compras": 29, "roas": 1.80, "cpa": 31.05, "ctr": 0.010, "freq": 1.20},
+    {"nombre": "LAL 1% Purch 180d", "gasto": 3560.84, "compras": 144, "roas": 2.11, "cpa": 24.73, "ctr": 0.0116, "freq": 1.25},
+    {"nombre": "RMK 180d Visitors", "gasto": 280.90, "compras": 15, "roas": 2.40, "cpa": 18.73, "ctr": 0.0150, "freq": 1.10}
+  ],
+  "ads_top": [
+    {"nombre": "21/08_choker iris versatil_video", "formato": "video", "angulo": "versatilidad", "dias_activos": 12, "roas": 3.93, "compras": 8, "ctr": 0.0107, "gasto": 119.93, "thumb": ""},
+    {"nombre": "08/08_ultimosdiasrebajas_v4_img", "formato": "imagen", "angulo": "rebajas", "dias_activos": 15, "roas": 3.80, "compras": 5, "ctr": 0.0120, "gasto": 95.60, "thumb": ""}
+  ],
+  "acciones": [
+    "Duplicar concepto ganador cambiando solo hook 0–2s (3 variantes).",
+    "Escalar RMK catálogo +15–20% vigilando frecuencia <1,8.",
+    "Limpiar ABO: pausar <1,2× ROAS a 72h con >€50 de gasto.",
+    "Refuerzo LP: CTA above-the-fold y trust adyacente para subir LP→ATC."
+  ]
+}
